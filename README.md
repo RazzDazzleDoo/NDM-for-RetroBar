@@ -22,4 +22,4 @@ Pikmin\
 Star Fox\
 Wind Waker\
 \
-\*Say thanks on the way out!*
+*Say thanks on the way out!*
