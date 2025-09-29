@@ -1,6 +1,6 @@
 # [RETROBAR](https://github.com/dremin/RetroBar) REQUIRED 
 
-A recreation for all the taskbars seen in those old Nintendo Desktop Manager themes for Windows XP!
+A recreation for all the taskbars seen in those old Nintendo Desktop Manager themes for Windows XP!\
 The goal isn't to be pixel-perfect accurate, just good enough for now.
 
 # HOW TO INSTALL
@@ -12,14 +12,14 @@ The goal isn't to be pixel-perfect accurate, just good enough for now.
 
 # THEMES
 ## Finished
-GameCube
-GBA SP
+GameCube\
+GBA SP\
 ## What's left?
-*Super Mario Sunshine*
-Eternal Darkness
-Metroid Prime
-Pikmin
-Star Fox
-Wind Waker
-
-*Say thanks on the way out!*
+*Super Mario Sunshine*\
+Eternal Darkness\
+Metroid Prime\
+Pikmin\
+Star Fox\
+Wind Waker\
+\
+\*Say thanks on the way out!*
