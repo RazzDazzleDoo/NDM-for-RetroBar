@@ -7,7 +7,7 @@ The goal isn't to be pixel-perfect accurate, just good enough for now.
 1. Have RetroBar installed
 2. Download the repo as a ZIP
 3. Go to %localappdata%/RetroBar/Themes
-4. Extract tthe ZIP to that folder (Resources folder should be in the same folder as the themes!)
+4. Extract the ZIP to that folder (Resources folder should be in the same folder as the themes!)
 5. Reload RetroBar and your themes should be there!
 
 # THEMES
