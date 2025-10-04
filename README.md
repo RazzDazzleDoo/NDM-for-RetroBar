@@ -13,13 +13,13 @@ The goal isn't to be pixel-perfect accurate, just good enough for now.
 # THEMES
 ## Finished
 GameCube\
-GBA SP
+GBA SP\
+Star Fox
 ## What's left?
 *Super Mario Sunshine*\
 Eternal Darkness\
 Metroid Prime\
 Pikmin\
-Star Fox\
 Wind Waker\
 \
 *Say thanks on the way out!*
